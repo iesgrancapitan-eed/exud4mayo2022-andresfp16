@@ -1,7 +1,12 @@
 package com.ARM.eed.examen.OptimizacionYDocumentacion;
 
 
-
+/**
+ * <p>
+ * Clase mascota.
+ * @author andres
+ *
+ */
 public class Mascota {
 
   private int age;
